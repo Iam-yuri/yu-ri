@@ -1,2 +1,4 @@
 # yu-ri
-Coisas da faculdade
+Curso da DIO
+
+Aprendendo e configurando o GIT
